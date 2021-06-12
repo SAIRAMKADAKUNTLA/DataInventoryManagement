@@ -1,25 +1,24 @@
 {
- 
-  "Rice": 
+
+  "Inventory": [
     {
-      "Name": "Dawaat",
-      "Weight": 25,
+      "Name": "Rice",
+      "Weight": 150,
       "Price_per_kg": 90
-      
+
     },
-  
-  "Wheat": 
+
     {
-      "Name": "Aashirvad",
-      "Weight": 5,
+      "Name": "Wheat",
+      "Weight": 250,
       "Price_per_kg": 40
     },
-  
-  "Pulses": 
+
     {
-      "Name": "Heritage",
-      "Weight": 5,
+      "Name": "Pulses",
+      "Weight": 200,
       "Price_per_kg": 70
     }
+  ]
   
 }

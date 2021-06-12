@@ -6,7 +6,7 @@ namespace Data_Inventory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to data inventory");
             DataRead dataRead = new DataRead();
             dataRead.GetData();
         }
